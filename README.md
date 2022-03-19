@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalu47
 - 👀 I’m interested in Challenging Projects
-- 🌱 I’m currently learning Java
-- 📫 How to reach me xtzdevelopers@gmail.com
+- 🌱 I’m currently a full stack Developer 
+- 📫 How to reach me kalu47@icloud.com
 
 <!---
 kalu47/kalu47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
